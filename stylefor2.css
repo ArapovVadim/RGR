@@ -1,0 +1,18 @@
+input {
+    display: flex;
+    justify-content: space-between; 
+    
+	width: 200px;
+	font-size: 13px; 
+	padding: 6px 0 4px 10px;
+	border: 1px solid #cecece;
+	background: #F6F6f6;
+	border-radius: 8px;
+  }
+  .form{
+      width: 200px;
+      padding: 32px;
+      border: 1px solid #cecece;
+      border: 10 px;
+      box-shadow: 0 px 4 px 16px #ccc;
+  }
